@@ -1,0 +1,16 @@
+:host {
+  width: 100%;
+}
+
+.products {
+  display: block;
+  min-height: calc(100vh - 60px);
+  margin: 10px;
+  padding-top: 20px;
+  text-align: center;
+  line-height: 15px;
+}
+
+.product {
+  display: inline-block;
+}

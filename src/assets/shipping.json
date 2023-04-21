@@ -1,0 +1,14 @@
+[
+  {
+    "type": "Controller",
+    "price": 65.55
+  },
+  {
+    "type": "Consoles",
+    "price": 399.99
+  },
+  {
+    "type": "PC's",
+    "price": 650.69
+  }
+]
